@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Python With Django**
 
-- 💬 Ask me about **Python,Django,HTML,CSS,Bootstrap,Js**
+- 💬 Ask me about **Python/Django/HTML/CSS/Bootstrap/Js**
 
 - 📫 How to reach me **mdahadali061@gmail.com**
 
